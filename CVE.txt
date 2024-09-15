@@ -1,0 +1,2 @@
+python -m venv VenvProject                       #python -m venv [Nombre del entorno virtual]
+pip install -r requirements.txt
